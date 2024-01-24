@@ -2,13 +2,14 @@ project:
   type: book
 
 book:
-  title: "casa0023_learningdiary"
-  author: "Yizhuo Shi"
-  date: "1/14/2024"
+  title: "learningdiary"
+  author: "Norah Jones"
+  date: "1/24/2024"
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - week1.qmd
+    - week2.qmd
     - references.qmd
 
 bibliography: references.bib
