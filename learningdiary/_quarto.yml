@@ -2,9 +2,9 @@ project:
   type: book
 
 book:
-  title: "learningdiary"
-  author: "Norah Jones"
-  date: "1/21/2024"
+  title: "casa0023_learningdiary"
+  author: "Yizhuo Shi"
+  date: "1/14/2024"
   chapters:
     - index.qmd
     - intro.qmd
