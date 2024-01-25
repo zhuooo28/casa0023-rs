@@ -4,7 +4,7 @@
 
 ### Summary:
 
-This week's session offered a comprehensive introduction to remote sensing, emphasizing its pivotal role in urban and environmental studies. The lecture detailed various technologies, particularly the distinction between passive and active sensors, and their interaction with electromagnetic waves. In the practical session, we applied these concepts using Sentinel and Landsat data, focusing on York' s urban landscape. It was a blend of theoretical understanding and practical data analysis. This is a mind map.
+This week's session offered a comprehensive introduction to remote sensing, emphasizing its pivotal role in urban and environmental studies. The lecture detailed various technologies, particularly the distinction between passive and active sensors, and their interaction with electromagnetic waves. In the practical session, we applied these concepts using Sentinel and Landsat data, focusing on York' s urban landscape. It was a blend of theoretical understanding and practical data analysis. This is a mind map about lecture slides.
 
 ```{r}
 knitr::include_graphics("figures/week1.png")
@@ -12,7 +12,25 @@ knitr::include_graphics("figures/week1.png")
 
 ### Applications:
 
-I was intrigued by how remote sensing is applied in real-world scenarios, particularly in urban planning and environmental monitoring. The practical session's data analysis of York highlighted this application vividly. It allowed me to see firsthand how remote sensing data could be used to observe and assess urban expansion and land use changes.
+Remote sensing technology is widely used in many fields, such as:
+
+1\. Environmental monitoring and protection: Remote sensing is used to monitor environmental problems such as deforestation, water pollution, and desertification.
+
+2\. Agriculture: Crop health monitoring, land use analysis, yield estimation.
+
+3\. Urban planning and management: urban expansion analysis, transportation planning, infrastructure development.
+
+4\. Disaster management: assessment and response to natural disasters such as floods, earthquakes, and fires.
+
+5\. Climate change research: climate model analysis, global temperature change monitoring, and polar ice cap melting.
+
+6\. National defense and security: border surveillance, military reconnaissance.
+
+7\. Geological research: mineral and resource detection, geological structure analysis.
+
+8\. Oceanography: Marine pollution monitoring, marine ecosystem research.
+
+I was intrigued by how remote sensing is applied in real-world scenarios, particularly in urban planning and environmental monitoring. The practical session's data analysis highlighted this application vividly. It allowed me to see firsthand how remote sensing data could be used to observe and assess urban expansion and land use changes. I am also interested in the application of remote sensing in disaster management. One study shows that Remote sensing technology is extensively utilized in defining surface water bodies, estimating meteorological variables like temperature and precipitation, assessing hydrological states such as soil moisture and surface characteristics, and calculating fluxes including evapotranspiration. With the advent of high-resolution satellite data, near-real-time monitoring of floods, droughts, and irrigation management has become increasingly feasible. This advancement enables more efficient and accurate environmental monitoring and resource management (D. and T. V., 2013).
 
 ### Reflection:
 

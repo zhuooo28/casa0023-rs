@@ -1,4 +1,7 @@
 # References {.unnumbered}
 
 ::: {#refs}
+D. , N.K. and T. V., R. (2013). Remote Sensing Applications in Water Resources. *Journal of the Indian Institute of Science*, \[online\] 93(2), pp.163–188. Available at: http://repository.ias.ac.in/126224/ .
+
+‌
 :::
