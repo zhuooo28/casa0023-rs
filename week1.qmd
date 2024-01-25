@@ -4,7 +4,11 @@
 
 ### Summary:
 
-This week's session offered a comprehensive introduction to remote sensing, emphasizing its pivotal role in urban and environmental studies. The lecture detailed various technologies, particularly the distinction between passive and active sensors, and their interaction with electromagnetic waves. In the practical session, we applied these concepts using Sentinel and Landsat data, focusing on York' s urban landscape. It was a blend of theoretical understanding and practical data analysis.
+This week's session offered a comprehensive introduction to remote sensing, emphasizing its pivotal role in urban and environmental studies. The lecture detailed various technologies, particularly the distinction between passive and active sensors, and their interaction with electromagnetic waves. In the practical session, we applied these concepts using Sentinel and Landsat data, focusing on York' s urban landscape. It was a blend of theoretical understanding and practical data analysis. This is a mind map.
+
+```{r}
+knitr::include_graphics("figures/week1.png")
+```
 
 ### Applications:
 
