@@ -2,6 +2,9 @@
 
 In summary, this book has no content whatsoever.
 
-```{r}
-1 + 1
+```{r echo = FALSE, out.width='40%'}
+xaringanExtra::embed_xaringan(
+  url = "https://zhuooo28.github.io/casa0023-presentation/week2_pre.html#1",
+  ratio = "16:9")
+
 ```
