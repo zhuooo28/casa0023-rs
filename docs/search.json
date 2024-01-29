@@ -33,5 +33,12 @@
     "title": "learningdiary",
     "section": "",
     "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "week2.html#xaringan-presentation-infrared-sensor",
+    "href": "week2.html#xaringan-presentation-infrared-sensor",
+    "title": "3  Week2",
+    "section": "3.1 Xaringan Presentation-Infrared Sensor",
+    "text": "3.1 Xaringan Presentation-Infrared Sensor\nHere is a short presentation discussing the infrared sensor."
   }
 ]

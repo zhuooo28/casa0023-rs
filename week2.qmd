@@ -1,6 +1,8 @@
 # Week2
 
-In summary, this book has no content whatsoever.
+## Xaringan Presentation-Infrared Sensor
+
+Here is a short presentation discussing the infrared sensor.
 
 ```{r echo = FALSE, out.width='40%'}
 xaringanExtra::embed_xaringan(
