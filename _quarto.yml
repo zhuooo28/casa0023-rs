@@ -3,7 +3,7 @@ project:
   output-dir: docs
 book:
   title: "learningdiary"
-  author: "Norah Jones"
+  author: "Yizhuo Shi"
   date: "1/24/2024"
   chapters:
     - index.qmd
@@ -11,6 +11,7 @@ book:
     - week1.qmd
     - week2.qmd
     - week3.qmd
+    - week4.qmd
     - references.qmd
 
 bibliography: references.bib
