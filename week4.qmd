@@ -18,7 +18,7 @@ In order to solve the subsidence problem in Jakarta, the Indonesian government a
 
 Some predictions indicate that Jakarta will completely sink by 2050. Therefore, the government and relevant departments should continue to speed up the pace and actively respond. The next section: "Application" will talk about the specific application of remote sensing technology in sea level rise and ground subsidence.
 
-### Applications:、
+### Applications:
 
 In the case of Indonesia, especially Jakarta, remote sensing technologies (including InSAR and GNSS) are often used to help study land subsidence problems in low-lying coastal areas (Andreas et al., 2020), through geological surveys (such as leveling, global Navigation Satellite System (GNSS) and Synthetic Aperture Radar Interferometry (InSAR)), which can identify annual subsidence rates. The authors analyze time series of remote sensing data such as Google Earth or Landsat image archives, combined with land subsidence measurements and groundwater monitoring point data, as well as the mentioned statistical data to identify land subsidence areas, coastal land subsidence affected areas, potential seawater intrusion and aquifers method of damage.
 
@@ -38,11 +38,11 @@ The first article mainly discusses the application of time series analysis of In
 
 In summary, the second article focuses more on the methods and algorithms of InSAR data analysis, while the third one focuses more on the surface subsidence problem in a specific area (i.e. GBA), and uses multi-sensor SAR images for monitoring. Both articles discuss the application of InSAR technology in ground monitoring, but the focus and geographical scope are different.
 
-#### Reflection:
+### Reflection:
 
 Studying policy issues in Jakarta in this module introduced me to the many ways in which remote sensing data can be used to address urban environmental issues such as land subsidence. Exploring remote sensing technologies such as InSAR and GNSS through Jakarta's land subsidence problem highlights the key role of technological advancement in environmental monitoring and urban planning. Gaining a deeper understanding of how these technologies can provide high-resolution images and data to effectively detect and analyze ground deformation has not only enhanced my understanding of land subsidence monitoring, but also expanded my knowledge of the application of these technologies in a broader context. Through detailed case studies comparing Mexico City and China's Guangdong-Hong Kong-Macau Greater Bay Area, I learned how different InSAR data analysis algorithms and methods can be leveraged to address specific geographic and situational needs. The importance of choosing appropriate algorithms is a valuable lesson for any policy or environmental analysis. Furthermore, it is predicted that Jakarta may be completely submerged by 2050 if drastic measures are not taken, reminding us of the urgency needed when addressing environmental issues. This prompts us to consider the wider implications of urban policy and planning, the key importance of sustainable practices, and the delicate balance that must be struck between development and conservation.
 
-#### References:
+### References:
 
 Andreas, H., Abidin, H.Z., Sarsito, D.A. and Pradipta, D. (2020). Remotes sensing capabilities on land subsidence and coastal water hazard and disaster studies. IOP Conference Series: Earth and Environmental Science, 500(1), p.012036. doi:<https://doi.org/10.1088/1755-1315/500/1/012036.>
 
