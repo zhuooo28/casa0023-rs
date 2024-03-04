@@ -1,16 +1,22 @@
-# Week6
+# Week7
 
-## Week 6: An introduction to Google Earth Engine
+## Week 7: Classification I 
 
 ### Summary:
 
 This is a mind map of this week's lecture.
 
 ```{r}
-knitr::include_graphics("figures/w6-GEE.png")
+knitr::include_graphics("figures/week7_mindmap.png")
 ```
 
-Through this week's practical content, I initially learned how to use JavaScript to write code in GEE, including the use of some basic programming concepts such as variables, strings, lists, and dictionaries. First, geographical information points were created, Landsat data was imported, and GEE operations such as image clipping and texture measurement were performed. I also learned to process data and how to load, filter and display image datasets, by processing image collections, using equal methods such as straight, mean, etc. to synthesize images. Next, I learned how to use principal component analysis (PCA) to reduce the dimensionality of image data, including how to calculate covariance matrices, eigenvalues, and eigenvectors, and output the results as images.
+This week’s practical involves digital image processing, remote sensing information extraction technologies and methods, such as pattern recognition, supervised classification, unsupervised classification, information extraction using artificial intelligence, etc. It discusses techniques such as support vector machines, random forest classifiers, and remote sensing thematic map accuracy assessment in detail. In addition, the method of using Google Earth Engine for cloud-based remote sensing data processing is also introduced, including the process of data acquisition, vector data processing, and the use of different algorithms for image classification and accuracy evaluation. Through practical cases, I learned how to process remote sensing data, perform land cover classification, and evaluate the accuracy of classification results. Random forest is an ensemble learning method that improves the accuracy and robustness of classification by building multiple decision trees. In remote sensing image processing, random forests can effectively process large amounts of data and provide accurate classification results. I am mainly interested in how to train a random forest classifier on the GEE platform, including selecting training and validation samples, training the classifier using the random forest algorithm, and evaluating the accuracy of the classification results. This process involves segmenting the data set, selecting an appropriate feature set, and using tools such as confusion matrices to verify the classification effect. In addition, the practical also emphasizes how to avoid overfitting (shown in the figure below) when processing remote sensing images and ensure the generalization ability of the model by correctly segmenting the data set.
+
+```{r}
+knitr::include_graphics("figures/w7_overfitting.png")
+```
+
+Source: Seema Singh
 
 ### Applications:
 
@@ -28,6 +34,4 @@ The Google Earth Engine (GEE) we learned this week is inspiring, and it vividly 
 
 ### References:
 
-Amani, M., Kakooei, M., Moghimi, A., Ghorbanian, A., Ranjgar, B., Mahdavi, S., Davidson, A., Fisette, T., Rollin, P., Brisco, B. and Mohammadzadeh, A. (2020). Application of Google Earth Engine Cloud Computing Platform, Sentinel Imagery, and Neural Networks for Crop Mapping in Canada. Remote Sensing, 12(21), p.3561. doi:<https://doi.org/10.3390/rs12213561.>
-
-Mutanga, O. and Kumar, L. (2019). Google Earth Engine Applications. Remote Sensing, 11(5), p.591. doi:<https://doi.org/10.3390/rs11050591.>
+Singh, S. (2018). Understanding the Bias-Variance Tradeoff. \[online\] Medium. Available at: <https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229.>

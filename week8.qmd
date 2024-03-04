@@ -30,4 +30,4 @@ The Google Earth Engine (GEE) we learned this week is inspiring, and it vividly 
 
 Amani, M., Kakooei, M., Moghimi, A., Ghorbanian, A., Ranjgar, B., Mahdavi, S., Davidson, A., Fisette, T., Rollin, P., Brisco, B. and Mohammadzadeh, A. (2020). Application of Google Earth Engine Cloud Computing Platform, Sentinel Imagery, and Neural Networks for Crop Mapping in Canada. Remote Sensing, 12(21), p.3561. doi:<https://doi.org/10.3390/rs12213561.>
 
-Mutanga, O. and Kumar, L. (2019). Google Earth Engine Applications. Remote Sensing, 11(5), p.591. doi:<https://doi.org/10.3390/rs11050591.>
+Amani, M., Kakooei, M., Moghimi, A., Ghorbanian, A., Ranjgar, B., Mahdavi, S., Davidson, A., Fisette, T., Rollin, P., Brisco, B. and Mohammadzadeh, A. (2020). Application of Google Earth Engine Cloud Computing Platform, Sentinel Imagery, and Neural Networks for Crop Mapping in Canada. Remote Sensing, 12(21), p.3561. doi:<https://doi.org/10.3390/rs12213561.>
