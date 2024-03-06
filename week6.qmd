@@ -10,7 +10,11 @@ This is a mind map of this week's lecture.
 knitr::include_graphics("figures/w6-GEE.png")
 ```
 
-Through this week's practical content, I initially learned how to use JavaScript to write code in GEE, including the use of some basic programming concepts such as variables, strings, lists, and dictionaries. First, geographical information points were created, Landsat data was imported, and GEE operations such as image clipping and texture measurement were performed. I also learned to process data and how to load, filter and display image datasets, by processing image collections, using equal methods such as straight, mean, etc. to synthesize images. Next, I learned how to use principal component analysis (PCA) to reduce the dimensionality of image data, including how to calculate covariance matrices, eigenvalues, and eigenvectors, and output the results as images.
+Through this week's practical content, I initially learned how to use JavaScript to write code in GEE, including the use of some basic programming concepts such as variables, strings, lists, and dictionaries. First, geographical information points were created, Landsat data was imported, and GEE operations such as image clipping and texture measurement were performed. I also learned to process data and how to load, filter and display image datasets, by processing image collections, using equal methods such as straight, mean, etc. to synthesize images. Next, I learned how to use principal component analysis (PCA) to reduce the dimensionality of image data, including how to calculate covariance matrices, eigenvalues, and eigenvectors, and output the results as images. The figure below is a screenshot of my practice following the practical content.
+
+```{r}
+knitr::include_graphics("figures/w6_practical.png")
+```
 
 ### Applications:
 
