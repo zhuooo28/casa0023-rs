@@ -13,8 +13,6 @@ Chrysoulakis, N., Abrams, M., Feidas, H. and Arai, K. (2010). Comparison of atmo
 
 <div>
 
-
-
 </div>
 
 WU, J., WANG, D. and BAUER, M.E. (2005). Image-based atmospheric correction of QuickBird imagery of Minnesota cropland. *Remote Sensing of Environment*, 99(3), pp.315–325. Available at:https://doi.org/10.1016/j.rse.2005.09.006.

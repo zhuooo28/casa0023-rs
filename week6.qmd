@@ -24,7 +24,7 @@ These two studies demonstrate the application of Google Earth Engine (GEE) in th
 
 ### Reflection:
 
-The Google Earth Engine (GEE) we learned this week is inspiring, and it vividly demonstrates the combination of programming and geospatial analysis. When I first tried programming in GEE using JavaScript, I found it difficult but took it as a challenge. Through these, I realized the importance of independent learning and problem solving. When encountering programming difficulties, although the code in the tutorial is very detailed, when trying to fully understand it, I learned how to search for relevant information, read documents, and ask peers for help. These abilities will be extremely valuable for my future study and work. of.
+The Google Earth Engine (GEE) we learned this week is inspiring, and it vividly demonstrates the combination of programming and geospatial analysis. When I first tried programming in GEE using JavaScript, I found it difficult but took it as a challenge. Through these, I realized the importance of independent learning and problem solving. When encountering programming difficulties, although the code in the tutorial is very detailed, when trying to fully understand it, I learned how to search for relevant information, read documents, and ask peers for help. These abilities will be extremely valuable for my future' s study and work.
 
 ### References:
 
