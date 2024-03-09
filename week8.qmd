@@ -2,7 +2,7 @@
 
 ## Week 8: Classification The Big Questions and Accuracy
 
-## Summary:
+### Summary:
 
 This is a mind map of this week's lecture.
 

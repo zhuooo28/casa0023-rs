@@ -209,12 +209,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#week-8-classification-the-big-questions-and-accuracy" id="toc-week-8-classification-the-big-questions-and-accuracy" class="nav-link active" data-scroll-target="#week-8-classification-the-big-questions-and-accuracy"><span class="header-section-number">8.1</span> Week 8: Classification The Big Questions and Accuracy</a></li>
-  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="header-section-number">8.2</span> Summary:</a>
+  <li><a href="#week-8-classification-the-big-questions-and-accuracy" id="toc-week-8-classification-the-big-questions-and-accuracy" class="nav-link active" data-scroll-target="#week-8-classification-the-big-questions-and-accuracy"><span class="header-section-number">8.1</span> Week 8: Classification The Big Questions and Accuracy</a>
   <ul class="collapse">
-  <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications"><span class="header-section-number">8.2.1</span> Applications:</a></li>
-  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection"><span class="header-section-number">8.2.2</span> Reflection:</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">8.2.3</span> References:</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="header-section-number">8.1.1</span> Summary:</a></li>
+  <li><a href="#applications" id="toc-applications" class="nav-link" data-scroll-target="#applications"><span class="header-section-number">8.1.2</span> Applications:</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection"><span class="header-section-number">8.1.3</span> Reflection:</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="header-section-number">8.1.4</span> References:</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -241,9 +241,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="week-8-classification-the-big-questions-and-accuracy" class="level2" data-number="8.1">
 <h2 data-number="8.1" class="anchored" data-anchor-id="week-8-classification-the-big-questions-and-accuracy"><span class="header-section-number">8.1</span> Week 8: Classification The Big Questions and Accuracy</h2>
-</section>
-<section id="summary" class="level2" data-number="8.2">
-<h2 data-number="8.2" class="anchored" data-anchor-id="summary"><span class="header-section-number">8.2</span> Summary:</h2>
+<section id="summary" class="level3" data-number="8.1.1">
+<h3 data-number="8.1.1" class="anchored" data-anchor-id="summary"><span class="header-section-number">8.1.1</span> Summary:</h3>
 <p>This is a mind map of this week’s lecture.</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"figures/week8_mindmap.png"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -259,8 +258,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><img src="figures/w8_practical.png" class="img-fluid" width="1440"></p>
 </div>
 </div>
-<section id="applications" class="level3" data-number="8.2.1">
-<h3 data-number="8.2.1" class="anchored" data-anchor-id="applications"><span class="header-section-number">8.2.1</span> Applications:</h3>
+</section>
+<section id="applications" class="level3" data-number="8.1.2">
+<h3 data-number="8.1.2" class="anchored" data-anchor-id="applications"><span class="header-section-number">8.1.2</span> Applications:</h3>
 <p>Of what I learned this week, I was primarily interested in using remote sensing techniques to analyze land cover changes. Remote sensing technology has become an important tool for detecting land cover changes because it can provide large-scale, multi-temporal surface information. The following are specific methods and their applications.</p>
 <p>Gómez, White and Wulder (2016) discuss methods and advances in land cover classification using optical remote sensing time series data. The article first points out that accurate land cover information is very important for scientific monitoring and reporting. Earth observation (EO) data enables consistent and reliable monitoring and mapping of land cover and its changes over large areas. The increase in EO data—particularly from the Landsat archive (soon to include Sentinel-2 data)—as well as improvements in image synthesis methods have now enabled the delivery of annual, seamless surface reflectance products. These data products support the development of annual land cover products that can be guided and constrained by change detection results. In addition, the article also explores new inputs in land cover classification, such as stabilization of land cover transformation and temporal classification, combination of multi-scale and multi-sensor spectral data, multiple temporal spectral variables, and optimized training sample data.</p>
 <p>Another study introduced a novel subpixel-level change detection method for urban land cover analysis from multi-temporal remote sensing imagery. This method is based on spectral hybrid analysis and decision-level fusion design, aiming to solve the problem of complex and variable land use/cover components within a single pixel due to spatial resolution limitations in medium-resolution remote sensing images for monitoring urban land cover changes. Traditional hard detection methods based on pure pixel assumptions often lead to a high degree of omissions and misjudgment errors by ignoring spectral variations within pixels, thereby reducing the overall accuracy of change detection (DU et al., 2014). To solve this problem, DU et al.&nbsp;(2014) proposed a change detection method based on a nonlinear spectral mixture model. They achieved sub-pixel level change detection by analyzing subtle changes within a single pixel and combining multiple compositional evidences. . This method uses a backpropagation neural network (BPNN) for spectral separation to generate abundance values of different ground components, and then analyzes the abundance values of all ground components and determines detailed change information through decision-level fusion. The figure below is a flow chart of this method. In experiments, this method was applied to multi-temporal Landsat Thematic Mapper and China-Brazil resource satellite remote sensing images for land cover change detection in urban areas.</p>
@@ -273,12 +273,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Flowchart of the proposed sub-pixel level change detection approach Source: DU et al.&nbsp;(2014)</p>
 <p>Both studies above used remote sensing technology to analyze land cover changes. They all highlight the importance of time series data in analyzing land cover changes. Dynamic changes in land cover can be better monitored and understood using multi-temporal data. The first study summarizes various methods and advances in land cover classification using optical remote sensing time series data, emphasizing the application of time series information in land cover classification and monitoring, including the generation of annual land cover products and the use of time series change information for land cover classification. Override mapping strategy. The application of time series data in land cover classification is discussed more broadly, not only in urban areas, but also in various land cover types including forests, farmland, etc., and a series of operational strategies and classification methods for integrating time series data are proposed. The second article focuses on proposing a new sub-pixel level change detection method, which is based on a nonlinear spectral mixture model and decision-level fusion, and can detect subtle land cover changes at the sub-pixel level. The author verified the effectiveness of the proposed method in urban land cover change detection through experiments, focusing on improving the accuracy of change detection in urban areas through sub-pixel change detection technology.</p>
 </section>
-<section id="reflection" class="level3" data-number="8.2.2">
-<h3 data-number="8.2.2" class="anchored" data-anchor-id="reflection"><span class="header-section-number">8.2.2</span> Reflection:</h3>
+<section id="reflection" class="level3" data-number="8.1.3">
+<h3 data-number="8.1.3" class="anchored" data-anchor-id="reflection"><span class="header-section-number">8.1.3</span> Reflection:</h3>
 <p>This week’s study gave me an in-depth understanding of the application of remote sensing technology in the analysis of land cover changes. Through advanced classification methods, change detection technology, and practical operations with Google Earth Engine, I have a more specific understanding of how to use remote sensing data for precise analysis. In particular, I have developed a strong interest in sub-pixel analysis methods because of their ability to reveal more nuanced proportions of land cover types within individual pixels, which is particularly important in complex urban environments. But I know the potential applications of these techniques and methods extend far beyond that. For example, these technologies can be used in various fields such as urban planning, disaster management, and agricultural monitoring. Especially today, when climate change and environmental protection have become the focus of global attention, remote sensing technology provides a powerful tool for monitoring changes in the earth’s surface. At the same time, I also started thinking about how to apply these technologies in future research or projects, how to integrate these technologies into my research field, and how they can help solve broader social, economic and environmental problems. In addition, in my previous studies, I also learned about accuracy tables. Through this week’s study, I understood how it is applied in the field of remote sensing, which deepened my understanding of confusion matrices.</p>
 </section>
-<section id="references" class="level3" data-number="8.2.3">
-<h3 data-number="8.2.3" class="anchored" data-anchor-id="references"><span class="header-section-number">8.2.3</span> References:</h3>
+<section id="references" class="level3" data-number="8.1.4">
+<h3 data-number="8.1.4" class="anchored" data-anchor-id="references"><span class="header-section-number">8.1.4</span> References:</h3>
 <p>DU, P., LIU, S., LIU, P., TAN, K. and CHENG, L. (2014). Sub-pixel change detection for urban land-cover analysis via multi-temporal remote sensing images. Geo-spatial Information Science, 17(1), pp.26–38. doi:<a href="https://doi.org/10.1080/10095020.2014.889268." class="uri">https://doi.org/10.1080/10095020.2014.889268.</a></p>
 <p>Gómez, C., White, J.C. and Wulder, M.A.&nbsp;(2016). Optical remotely sensed time series data for land cover classification: A review. ISPRS Journal of Photogrammetry and Remote Sensing, 116, pp.55–72. doi:<a href="https://doi.org/10.1016/j.isprsjprs.2016.03.008." class="uri">https://doi.org/10.1016/j.isprsjprs.2016.03.008.</a></p>
 
