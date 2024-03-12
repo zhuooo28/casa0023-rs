@@ -1,0 +1,23 @@
+# References {.unnumbered}
+
+::: {#refs}
+D. , N.K. and T. V., R. (2013). Remote Sensing Applications in Water Resources. *Journal of the Indian Institute of Science*, \[online\] 93(2), pp.163–188. Available at: http://repository.ias.ac.in/126224/.
+
+Shetty, A. (2018). Infrared Sensor - How it Works, Types, Applications, Advantage & Disadvantage. \[online\] electricalfundablog.com. Available at: https://electricalfundablog.com/infrared-sensor/?utm_content=cmp-true.
+
+meryl (2013). PPT - Temperature Sensors PowerPoint Presentation, free download - ID:1297312. \[online\] SlideServe. Available at: https://www.slideserve.com/meryl/temperature-sensors.
+
+Eguchi, R., Huyck, C., Ghosh, S. and Adams, B. (2008). *The Application of Remote Sensing Technologies for Disaster Management*. \[online\] Available at: https://www.iitk.ac.in/nicee/wcee/article/14_K004.pdf.
+
+Chrysoulakis, N., Abrams, M., Feidas, H. and Arai, K. (2010). Comparison of atmospheric correction methods using ASTER data for the area of Crete, Greece. *International Journal of Remote Sensing*, 31(24), pp.6347–6385. Available at: https://doi.org/10.1080/01431160903413697.
+
+<div>
+
+</div>
+
+WU, J., WANG, D. and BAUER, M.E. (2005). Image-based atmospheric correction of QuickBird imagery of Minnesota cropland. *Remote Sensing of Environment*, 99(3), pp.315–325. Available at:https://doi.org/10.1016/j.rse.2005.09.006.
+
+‌
+
+‌‌
+:::
