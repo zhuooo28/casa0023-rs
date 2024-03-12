@@ -37,3 +37,9 @@ Both studies focus on the application of remote sensing technology, but they eac
 ### Reflection:
 
 For me, the transition from theoretical concepts to practical applications was particularly enlightening. Practical analysis of satellite data makes abstract concepts more concrete and relevant. It highlights the importance of remote sensing in contemporary urban and environmental challenges, especially in the context of rapid urbanization and climate change. After studying the practical part, I found that directly using tools and data such as SNAP and R to process satellite images was a highlight. Experience analyzing data from different satellites highlights the complexity and precision of remote sensing. This practical insight not only enhanced my understanding of the theoretical aspects but also sparked a stronger interest in the potential applications of this technology in various fields. This week is an enriching start to the course, laying a solid foundation in remote sensing theory and practice. The combination of lectures and practical applications helped deepen my understanding and knowledge of the field.
+
+### References:
+
+D. , N.K. and T. V., R. (2013). Remote Sensing Applications in Water Resources. Journal of the Indian Institute of Science, \[online\] 93(2), pp.163–188. Available at: <http://repository.ias.ac.in/126224/.>
+
+Eguchi, R., Huyck, C., Ghosh, S. and Adams, B. (2008). *The Application of Remote Sensing Technologies for Disaster Management*. \[online\] Available at: https://www.iitk.ac.in/nicee/wcee/article/14_K004.pdf.
