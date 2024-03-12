@@ -30,6 +30,8 @@ Almeida, Teodoro and Gonçalves (2021) conducted research on the use of remote s
 knitr::include_graphics("figures/week9_LST.png")
 ```
 
+Source: Almeida, Teodoro and Gonçalves (2021)
+
 Another interesting study explored the relationship between urban heat island effect (UHI) and land use/cover change (LUCC) by analyzing remote sensing images, specifically in the Pearl River Delta region. The authors used Landsat TM and ETM+ images from 1990 to 2000 to obtain brightness temperature and land use/cover types (Chen et al., 2006). The figure below is selected from the Landsat TM image on October 29, 1994 and the ETM+ image on November 1, 2000 to examine the changes in average temperature and the detailed distribution of urban heat islands. In addition, the article also proposes a new index, the Normalized Difference Bareness Index (NDBaI), for extracting bare ground from satellite images. The study found that with the rapid development of urbanization in the Pearl River Delta region, the urban heat island effect has become more obvious, and the spatial distribution of heat islands has changed from a chaotic pattern to a widespread urban heat island pattern. The author calculated the surface brightness temperature through thermal infrared (TIR) data from Landsat 5 TM and Landsat 7 ETM+ images, using the normalized difference vegetation index (NDVI), normalized difference water index (NDWI), and normalized difference building index ( NDBI) and the newly proposed Normalized Difference Exposure Index (NDBaI) to classify and analyze land use and cover. Study spatial changes during urbanization by comparing land use/cover types at different points in time.
 
 ```{r}
