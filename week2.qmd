@@ -11,7 +11,7 @@ xaringanExtra::embed_xaringan(
 
 ```
 
-### References
+### References:
 
 Shetty, A. (2018). Infrared Sensor - How it Works, Types, Applications, Advantage & Disadvantage. \[online\] electricalfundablog.com. Available at: https://electricalfundablog.com/infrared-sensor/?utm_content=cmp-true.
 
