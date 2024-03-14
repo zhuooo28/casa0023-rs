@@ -1,7 +1,9 @@
-# Preface {.unnumbered}
+# About me {.unnumbered}
 
-add more in the future
+Hello, I am Yizhuo Shi, you can call me Zoe, I am from China. Currently, I am an MSc student in Urban Spatial Science at University College London. Prior to that, I completed my undergraduate studies at the University of Liverpool, majoring in Computer Science.
 
-```{r}
-1 + 1
-```
+I am passionate about how technology can be used to improve and understand our urban environments. From a young age, I have been deeply interested in technology and the natural world, and this interest has led me to my current academic path. My studies in computer science have given me a deep understanding of the power of technology, and my current major has opened my eyes to the possibilities of applying this power to urban and environmental issues.
+
+In my remote sensing studies, I am particularly looking forward to learning how remote sensing data and technology can be effectively used to solve real-world problems, such as urban planning, disaster management, and environmental protection. I am also looking forward to interacting and collaborating with students from different backgrounds, as I believe that diverse perspectives can inspire more innovative ideas.
+
+I am glad that you can read my diary, please advise me more!
